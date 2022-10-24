@@ -2,8 +2,8 @@
 ## My name is Manuela Alecio and my nickname is "ManuelaAlecio"!
 <div align="center">
 <a href="https://github.com/ManuelaAlecio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelaAlecio&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelaAlecio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelaAlecio&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ManuelaAlecio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔨 Technologies and Tools:
